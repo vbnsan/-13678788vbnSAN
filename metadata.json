@@ -1,0 +1,6 @@
+{
+  "name": "MotionStudio — استودیو هوشمند متن به موشن",
+  "description": "سامانه تحت‌وب کم‌توکن و مستقل برای تبدیل SRT، متن، صوت و لینک به موشن‌گرافیک‌های تعاملی HTML با معماری اسکیل‌های قابل آموزش و پکیج کامل PHP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
